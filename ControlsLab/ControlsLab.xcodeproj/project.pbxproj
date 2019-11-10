@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B7E8AD5C2378754C00526275 /* Suit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7E8AD5B2378754C00526275 /* Suit.swift */; };
 		CDD21D0A2373252C005E6E32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD21D092373252C005E6E32 /* AppDelegate.swift */; };
 		CDD21D0C2373252C005E6E32 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD21D0B2373252C005E6E32 /* SceneDelegate.swift */; };
 		CDD21D0E2373252C005E6E32 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD21D0D2373252C005E6E32 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B7E8AD5B2378754C00526275 /* Suit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suit.swift; sourceTree = "<group>"; };
 		CDD21D062373252C005E6E32 /* ControlsLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ControlsLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDD21D092373252C005E6E32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDD21D0B2373252C005E6E32 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				CDD21D092373252C005E6E32 /* AppDelegate.swift */,
 				CDD21D0B2373252C005E6E32 /* SceneDelegate.swift */,
 				CDD21D0D2373252C005E6E32 /* ViewController.swift */,
+				B7E8AD5B2378754C00526275 /* Suit.swift */,
 				CDD21D0F2373252C005E6E32 /* Main.storyboard */,
 				CDD21D1223732531005E6E32 /* Assets.xcassets */,
 				CDD21D1423732531005E6E32 /* LaunchScreen.storyboard */,
@@ -202,6 +205,7 @@
 			files = (
 				CDD21D0E2373252C005E6E32 /* ViewController.swift in Sources */,
 				CDD21D0A2373252C005E6E32 /* AppDelegate.swift in Sources */,
+				B7E8AD5C2378754C00526275 /* Suit.swift in Sources */,
 				CDD21D0C2373252C005E6E32 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
